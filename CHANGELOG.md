@@ -1,4 +1,5 @@
-## 0.0.7 (WIP)
+## 0.0.7
+  - update gem fix security issues
 
 ## 0.0.6
 - Remove Bootstrap's files and add it as dependency
@@ -22,4 +23,3 @@
 - FIX:
   - Install Generator: Use stylesheet_engine when injecting data in file
   - Plugin Generator: Use stylesheet_engine when injecting data in file
-
